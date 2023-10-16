@@ -3,7 +3,7 @@ import theme from "./theme.js";
 // import { searchProPlugin } from "vuepress-plugin-search-pro"
 import { photoSwipePlugin } from "vuepress-plugin-photo-swipe"
 export default defineUserConfig({
-  base: "/my-blog/",
+  base: "/",
   plugins: [],
   locales: {
     // 键名是该语言所属的子路径
