@@ -17,10 +17,10 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "stupid-zhaodongyu/my-blog",
 
   docsDir: "src",
-
+  hotReload: true,
   // navbar
   navbar,
 
@@ -81,6 +81,7 @@ export default hopeTheme({
   },
 
   plugins: {
+    photoSwipe: true,
     blog: true,
 
     comment: {

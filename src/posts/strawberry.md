@@ -14,6 +14,7 @@ tag:
 ## Heading 2
 
 Here is the content.
+![](/assets/images/cover3.jpg)
 
 ### Heading 3
 
